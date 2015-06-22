@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ChannelsApp copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>ChannelsApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0700E8FC1AC3B58D00EC6DE1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>071C316A1AB67A3800F893A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>071C31831AB67A3800F893A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>07D07D991AB823EE00174EE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
